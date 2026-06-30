@@ -1,0 +1,7 @@
+# Arquivos .pbix/.pbit contêm dados de clientes e credenciais de conexão embutidos —
+# NUNCA versionar. Este repo documenta os relatórios, não os arquivos brutos.
+*.pbix
+*.pbit
+*.xlsx
+*.csv
+.DS_Store
